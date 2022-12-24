@@ -12,3 +12,4 @@ Download these 3 files and store them inside their respective folders, i.e.:
     Download Orig_Masks zip file @ https://github.com/ImagingYeditepe/Segmentation-of-Teeth-in-Panoramic-X-ray-Image/raw/main/Original_Masks/Orig_Masks.zip
     Download splitted_masks zip file @ https://github.com/ImagingYeditepe/Segmentation-of-Teeth-in-Panoramic-X-ray-Image/raw/main/Custom_Masks/splitted_masks.zip
     Download DentalPanoramicXrays images @ https://data.mendeley.com/public-files/datasets/hxt48yk462/files/c2df1e1e-9939-4197-9bac-1eb697a64094/file_downloaded
+    URL: https://data.mendeley.com/datasets/hxt48yk462/2
